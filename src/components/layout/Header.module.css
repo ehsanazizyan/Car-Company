@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #304ffe;
+  padding: 15px 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+.right p {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  padding: 5px 15px;
+  color: black;
+  font-weight: 200;
+  border-radius: 5px;
+}
+.right p svg {
+  margin-left: 5px;
+  font-size: 1.5em;
+}
+.left {
+  align-items: center;
+  display: flex;
+  color: #fff;
+  font-size: 200;
+}
+.left a {
+  margin-left: 15px;
+}
+.login {
+  color: #fff;
+  font-size: 1.3em;
+  margin-top: 3px;
+}

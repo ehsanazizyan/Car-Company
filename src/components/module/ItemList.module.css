@@ -1,0 +1,15 @@
+.container ul {
+  padding-right: 20px;
+  margin-bottom: 50px;
+}
+
+.container li::marker {
+  color: #304ffe;
+}
+.container h3 {
+  color: red;
+  width: 200px;
+  padding: 10px 25px;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.226);
+}
